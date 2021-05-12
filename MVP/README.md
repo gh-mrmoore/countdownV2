@@ -17,6 +17,9 @@ TBD
 TBD
 ### Database
 Tables listed below will have the proposed bulleted fields. Please note, all names are just current placeholders and are not yet representative of a complete team review.
+
+The image below was drafted using Microsoft Access to provide some a basic level of visualization for the relationships between tables (assuming a relational/SQL DBMS is chosen).
+<img src="https://github.com/gh-mrmoore/countdownV2/blob/main/MVP/resources/db_design_proposal_v1.jpg" alt="Visualization of potential database structure." />
 #### users
 * ID - a unique identifier assigned to each user (automatically numbered as the primary key)
     * Could be replaced by email, but how would that impact performance???
