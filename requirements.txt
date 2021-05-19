@@ -1,0 +1,13 @@
+flask
+flask_sqlalchemy
+django
+gunicorn
+django-heroku
+requests
+jinja2
+datetime
+psycopg2
+psycopg2-binary
+dj-database-url
+google
+django-allauth
